@@ -4,6 +4,17 @@ A mobile application built with Flutter demonstrating asynchronous REST API inte
 
 ---
 
+## How to run:
+1) in the project directory root run
+```bash
+flutter pub get
+```
+2) run
+```bash
+flutter run -d chrome
+```
+или запустите на виртуалке в андроид студио
+
 ## 📋 Midterm Requirements Checklist
 
 | Requirement | Implementation | Status |
