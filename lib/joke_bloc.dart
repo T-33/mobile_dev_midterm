@@ -67,7 +67,7 @@ class JokeBloc extends Bloc<JokeEvent, JokeState> {
         uri,
         headers: {
           'Accept': 'application/json',
-          'User-Agent': 'FlutterDadJokesDemo (https://github.com/myuser/myrepo)',
+          'User-Agent': 'FlutterDadJokesDemo (https://github.com/T-33/mobile_dev_midterm)',
         },
       ).timeout(const Duration(seconds: 10));
 
